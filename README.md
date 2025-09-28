@@ -8,7 +8,7 @@ Struktur repository ini menggunakan **branch** terpisah untuk setiap project.
 
 ### `main`
 - Hanya berisi file `README.md` (dokumen ini).
-- Sebagai branch utama/pusat informasi project.
+- Sebagai branch utama informasi project.
 
 ---
 
